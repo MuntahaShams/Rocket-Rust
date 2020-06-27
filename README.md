@@ -1,4 +1,4 @@
-# Rocket-Server-Application
+# Rocket-Server-Application 🚀
 Running server to your pc
 Just clone this repo with this command below:
 
